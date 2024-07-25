@@ -1,0 +1,3 @@
+arb-dir: lib/l10n  # Directory where ARB files are stored
+output-dir: lib/generated  # Directory where localization files will be generated
+template-arb-file: intl_en.arb  # Base language file
