@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
-import 'package:news_apk/BottomNavigationBar/ArticleDetailsPage.dart';
+import 'package:news_apk/HomePage/ArticleDetailsPage.dart';
 import 'package:news_apk/LangaugeSwitch/LanguagePreferences.dart';
 import 'package:share_plus/share_plus.dart';
 

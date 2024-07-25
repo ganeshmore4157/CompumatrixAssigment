@@ -1,10 +1,10 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:news_apk/BottomNavigationBar/NewsScreen.dart';
-import 'package:news_apk/BottomNavigationBar/YoutubeNewsPage/YoutubeNews.dart';
+import 'package:news_apk/HomePage/NewsScreen.dart';
 import 'package:news_apk/Setting/SettingScreen.dart';
 import 'package:news_apk/Weather/WeatherPage.dart';
+import 'package:news_apk/YoutubeNewsPage/YoutubeNews.dart';
 
 class MyHomePage extends StatelessWidget {
   @override
